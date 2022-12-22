@@ -36,6 +36,6 @@ def calcAngle(h,m):
 s = list(map(int,input().split(":")))
 h = s[0]
 m = s[1]
-print(calcAngle(h,m))
+print( calcAngle(h,m))
 
 # This code is contributed by Danish Raza
